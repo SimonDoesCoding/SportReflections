@@ -4,6 +4,12 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <PackageId>SportReflections.Common</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>SimonDoesCoding</Authors>
+    <Company>SimonDoesCoding</Company>
+    <PackageDescription>Common Library for Sport Reflections Api</PackageDescription>
+    <RepositoryUrl>https://github.com/SimonDoesCoding/SportReflections</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
